@@ -7,10 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About My Project
+## About Quiz Beetlog
 
-My practice project
+This is just an another practice project that I created using Laravel & Vue.
+Using this application you can test your IQ about History Quizzes.
+
+### Features of the Application:
+
+> **The users are limited to this functionality:**
+
+> - Read a question
+> - Select an answer to question ( Multiple Choice )
+> - Submit an answer
+> - Go to next question
+> - Retake the Quiz
+> - Login and Logout to the application
+> - Register an account for the application
+ 
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel fra
+mework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+> **By Darwin Marcelo** \<akosiyawin@gmail.com\> ANG CUTEST FANBOI NI **IU♥**
