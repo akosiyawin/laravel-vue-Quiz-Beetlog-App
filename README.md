@@ -27,7 +27,6 @@ Using this application you can test your IQ about History Quizzes.
 
 ## License
 
-The Laravel fra
-mework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 > **By Darwin Marcelo** \<akosiyawin@gmail.com\> ANG CUTEST FANBOI NI **IU♥**
